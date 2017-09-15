@@ -1,0 +1,1 @@
+rand(5..11).times { FactoryGirl.create(:user) }
